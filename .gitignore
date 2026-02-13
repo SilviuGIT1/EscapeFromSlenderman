@@ -1,0 +1,39 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider / VS Code
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vscode/
+.idea/
+*.sdf
+*.VC.db
+
+# Node / npm / build stuff (if present)
+node_modules/
+dist/
+build/
+
+# Avoid committing local DBs / large binaries
+*.sqlite
+*.db
+
+# Ignore personal files
+*.swp
